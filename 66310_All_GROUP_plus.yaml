@@ -127,7 +127,7 @@ dns:
   - +.media.dssott.com
 proxies:
 - name: 1 🇮🇩 Amazon.com WS TLS [nautica]
-  server: investor.fb.com
+  server: 162.159.130.11
   port: 443
   type: trojan
   password: 01acd0cc-861f-416f-98bc-fcf91d931b48
@@ -156,7 +156,7 @@ proxies:
       Host: investor.fb.com.sg-vmess-vvip-9.topvpn.my.id
   udp: true
 - name: 5 🇮🇩 PT Pusat Media Indonesia WS TLS [nautica]
-  server: ava.game.naver.com
+  server: 104.18.213.235
   port: 443
   type: trojan
   password: 01acd0cc-861f-416f-98bc-fcf91d931b48
@@ -169,7 +169,7 @@ proxies:
       Host: tokisaki.kurumi.biz.id
   udp: true
 - name: 8 🇮🇩 PT Telkom Indonesia WS TLS [nautica]
-  server: graph.instragram.com
+  server: 104.18.42.238
   port: 443
   type: trojan
   password: 01acd0cc-861f-416f-98bc-fcf91d931b48
